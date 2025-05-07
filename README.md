@@ -1,4 +1,4 @@
-Hello, I’m @tairabiteru, a self-taught web and backend developer living in the Great Lakes State!
+Hello, I’m Taira, a self-taught web and backend developer living in the Great Lakes State!
 
 
 My interests include:
